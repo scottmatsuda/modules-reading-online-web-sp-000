@@ -5,7 +5,7 @@ module Dance
   end
   
   def jump
-    "look how high I'm jumping!"
+    "Look how high I'm jumping!"
   end
   
   def pirouette
