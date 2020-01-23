@@ -4,7 +4,7 @@ require_relative './fancy_dance.rb'
 
 class Dancer
   
-  include FancyDance
+  extend FancyDance
  
   attr_accessor :name
  
